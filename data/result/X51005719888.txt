@@ -1,0 +1,50 @@
+POTTERS
+GARDEN
+SDN
+BHID
+(1153774-0)
+Batu 11
+Sg Buloh
+47000   Se langor .
+Te] ; 016-667 0982 _
+016-333 3812
+GST
+No : 000392024064
+TAX INVOICE
+TABLE
+01
+POS   ID
+G
+Inv NO; G/00002268
+CASHIER: Administrator
+Inv DT : 04/01/2018 12;29;18 PM
+RM
+ITEM
+AMOUNT
+AAoOOO7  PLASTIC PLATE
+1,00 SR
+A40O022  CHINA POt
+2 @7,90
+15,80  SR
+AA00016 PLANT
+16 , 00  SR
+Aa00016 PLANT
+7, 00 SR
+5
+SUB   TOTAL
+39, 80
+NET   TOTAL
+90,80
+Cash
+40 , 00
+CHANGE
+0,20
+Tax Summary
+Amount
+Tax
+SR Inclusive GST 6X
+37,54
+2 ,26
+##* Thank you Please Come Again ##*
+Item Sold are Not RefundabIe & Exchangeable
+Reg

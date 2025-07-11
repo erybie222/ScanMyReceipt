@@ -1,0 +1,58 @@
+3180301
+SECURE PARKING
+CORPORATION  S/B
+Riverwalk
+Vinlage
+Batu
+3
+Ja
+al)
+Ipoh
+512200
+KL
+GST No . UDL2966928U0
+TEL
+No
+1300881698
+RECE IPT
+C13
+Rece ipt Number:
+K013 |800235097
+ENTRY
+IME
+23 .03
+18
+14 :59
+EXIT
+TME =
+23 . 03
+18
+15:27
+PARK-DUR ,
+D: HH:MM
+( : (O: 28
+K[ND
+(F
+F'AYML NT
+CASH
+Park
+Fee
+RM
+0, 94
+Add
+GS |
+RM
+0 . 06
+#AMT
+RM
+1 .QU
+#Rate
+inc |
+"
+GS [
+Thank
+YuU
+FUk
+YUUR
+VIST[
+ing

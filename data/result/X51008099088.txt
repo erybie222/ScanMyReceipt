@@ -1,0 +1,42 @@
+RESTORAN WAN SHE NG
+002043319-W
+No..2 , Jalan Temenggung 19/9_
+Seksyen 9
+Bandar" Mahkota Cheras 
+43200 Cheras_
+Selangor
+GST  REG  NO ; 001335787520
+Tax
+Invoice
+Inv No
+1213543
+Cashier : Thandar
+Date
+27-06-2018 12;15;15
+Descr iption
+Qty
+U.price
+Total TAX
+Cham (B)
+1 X
+2,10
+2,10 ZRL
+Take Away
+1 X
+0,20
+0,20 ZRL
+Total QTY :
+2
+Tota) (Excluding GST ) :
+2.30
+Tota| (Inclusive of GST ) ;
+2,30
+TOTAL:
+2
+30
+2,30
+Amcunt (RM)
+Tax(RM)
+OX )
+2,30
+0,00

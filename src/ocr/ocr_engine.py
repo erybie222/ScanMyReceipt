@@ -1,7 +1,9 @@
 import easyocr
 import cv2
 import os
+import warnings
 
+warnings.filterwarnings("ignore")
 reader = easyocr.Reader(['en'], gpu=True)
 
 def run_ocr(image_path:str) -> str:
@@ -9,7 +11,7 @@ def run_ocr(image_path:str) -> str:
     return "\n".join(result)
 
 def process_folder(input_dir: str, output_dir: str):
-    os.makedir(output_dir, exist_ok = True)
+    os.makedirs(output_dir, exist_ok = True)
     for filename in os.listdir( input_dir):
         if filename.lower().endswith((".jpg" , ".png", ".jpeg")):
             path = os.path.join(input_dir, filename)
